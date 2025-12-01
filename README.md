@@ -2,7 +2,7 @@
 
 A classic 2D platformer game developed using the Godot Engine.
 
-### 🎮 [PLAY THE GAME HERE](vignes-png.itch.io/simple-2d-platformer)
+### 🎮 [PLAY THE GAME HERE](https://vignes-png.itch.io/simple-2d-platformer)
 
 **Project Details:**
 * **Engine:** Godot 4
